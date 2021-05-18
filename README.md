@@ -9,6 +9,8 @@ Snd HDA for Sound
 Camera
 Chinese Keyboard
 
+Expressvpn
+
 ## Terminal Setup
 - Node and npm
 - Python2 and Python3 and pip
