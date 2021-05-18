@@ -22,4 +22,9 @@ Expressvpn
 ## GUI Setup (Finally and Themes)
 See the screenshots in folder
 
+## Cool Fonts
+
+- Oxanium
+- Neuropol X
+
 
