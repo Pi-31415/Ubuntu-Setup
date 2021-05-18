@@ -1,7 +1,7 @@
 # Ubuntu-Setup
 A list of requirements for ubuntu 18.01 setup for Robotics
 
-**IMPORTANT: Set-up ROS first. Then do other studd**
+**IMPORTANT: Set-up ROS first. Then do other stuff**
 
 
 ## Drivers Setup
