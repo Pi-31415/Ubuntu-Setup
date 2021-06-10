@@ -3,6 +3,8 @@ A list of requirements for ubuntu 18.01 setup for Robotics
 
 **IMPORTANT: Set-up ROS first. Then do other stuff**
 
+Install Ulauncher as spotlight
+
 
 ## Drivers Setup
 Snd HDA for Sound
