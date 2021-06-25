@@ -30,3 +30,9 @@ See the screenshots in folder
 - Neuropol X
 
 
+## Themes
+
+- https://github.com/vinceliuice/WhiteSur-gtk-theme
+- https://github.com/yeyushengfan258/Reversal-icon-theme
+- https://github.com/ful1e5/Bibata_Cursor
+
