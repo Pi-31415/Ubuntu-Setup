@@ -7,7 +7,7 @@ Install Ulauncher as spotlight
 
 
 ## Drivers Setup
-Snd HDA for Sound
+Snd HDA (from own repo) for Sound
 Camera
 Chinese Keyboard
 
