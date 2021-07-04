@@ -14,7 +14,7 @@ Chinese Keyboard
 Expressvpn
 
 ## Terminal Setup
-- Node and npm
+- Node and npm (https://askubuntu.com/questions/1088662/npm-depends-node-gyp-0-10-9-but-it-is-not-going-to-be-installed#1092849)
 - Python2 and Python3 and pip
 - Flutter
 - Yarn
