@@ -5,6 +5,13 @@ A list of requirements for ubuntu 18.01 setup for Robotics
 
 Install Ulauncher as spotlight
 
+## Essential Apps
+
+Chromium
+
+```
+sudo apt-get install chromium-browser
+```
 
 ## Drivers Setup
 Snd HDA (from own repo) for Sound
