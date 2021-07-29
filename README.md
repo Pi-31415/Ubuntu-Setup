@@ -3,8 +3,6 @@ A list of requirements for ubuntu 18.01 setup for Robotics
 
 **IMPORTANT: Set-up ROS first. Then do other stuff**
 
-Install Ulauncher as spotlight. Download at (https://github.com/Ulauncher/Ulauncher/releases/download/5.11.0/ulauncher_5.11.0_all.deb)
-
 ## Essential Apps
 
 Install Chrome and login first
@@ -29,6 +27,13 @@ sudo apt update
 sudo apt install brave-browser
 
 ```
+
+Teamviewer
+(https://www.teamviewer.com/en/download/linux/)
+
+
+Install Ulauncher as spotlight. Download at (https://github.com/Ulauncher/Ulauncher/releases/download/5.11.0/ulauncher_5.11.0_all.deb)
+
 
 ## Drivers Setup
 Snd HDA (from own repo) for Sound
