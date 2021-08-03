@@ -57,6 +57,9 @@ See the screenshots in folder
 
 - Oxanium
 - Neuropol X
+- Adobo (https://www.dafont.com/adobo.font)
+- Earth Orbiter (https://www.dafont.com/earth-orbiter.font)
+- Potra (https://www.dafont.com/potra.font)
 
 
 ## Themes
