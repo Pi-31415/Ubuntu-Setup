@@ -60,7 +60,7 @@ See the screenshots in folder
 - Adobo (https://www.dafont.com/adobo.font)
 - Earth Orbiter (https://www.dafont.com/earth-orbiter.font)
 - Potra (https://www.dafont.com/potra.font)
-
+https://www.dafont.com/varino.font
 
 ## Themes
 
