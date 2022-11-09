@@ -68,3 +68,5 @@ https://www.dafont.com/varino.font
 - https://github.com/yeyushengfan258/Reversal-icon-theme
 - https://github.com/ful1e5/Bibata_Cursor
 
+
+Note to self : Also set up the hosts file (in your other repo).
