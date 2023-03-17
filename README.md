@@ -73,6 +73,10 @@ White Sur theme installations
  ```
  sudo ./install.sh -c "Dark" -o "normal" -N "glassy" --name "K.A.G.U.Y.A" -s 280 -i "ubuntu" -m -HD --round --darker --nord -b "/home/pi/Documents/GitHub/Prion-Theme/TealGradedChineseBlur.jpg"
   ```
+  
+  Setup Background for login
+  
+  https://www.omgubuntu.co.uk/2022/01/change-ubuntu-login-screen-background
 
 
 Note to self : Also set up the hosts file (in your other repo).
