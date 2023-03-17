@@ -69,4 +69,10 @@ https://www.dafont.com/varino.font
 - https://github.com/ful1e5/Bibata_Cursor
 
 
+White Sur theme installations 
+ ```
+ sudo ./install.sh -c "Dark" -o "normal" -N "glassy" --name "K.A.G.U.Y.A" -s 280 -i "ubuntu" -m -HD --round --darker --nord -b "/home/pi/Documents/GitHub/Prion-Theme/TealGradedChineseBlur.jpg"
+  ```
+
+
 Note to self : Also set up the hosts file (in your other repo).
