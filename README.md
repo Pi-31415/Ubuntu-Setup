@@ -75,6 +75,8 @@ White Sur theme installations
   ```
   
   Setup Background for login
+
+  https://github.com/jeffshee/hidamari
   
   https://www.omgubuntu.co.uk/2022/01/change-ubuntu-login-screen-background
 
